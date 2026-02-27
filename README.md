@@ -18,6 +18,20 @@ A prototype fault-tolerant radiation detection and response system combining rea
 - Deployment: TensorFlow Lite (33.6KB) on Raspberry Pi
 - CRITICAL recall: 56% — model never misclassifies CRITICAL as NORMAL
 
+## Model Evaluation
+
+### Training History
+![Training History](ml/data/models/training_history.png)
+
+### Confusion Matrix
+![Confusion Matrix](ml/data/models/confusion_matrix.png)
+
+### Per-Class Performance
+![Per-Class Performance](ml/data/models/per_class_performance.png)
+
+### Predictions Over Time
+![Predictions Over Time](ml/data/models/predictions_over_time.png)
+
 ## Project Status
 - [x] Phase 1 — Planning and Setup
 - [x] Phase 2 — ML Data Pipeline and Model Training
