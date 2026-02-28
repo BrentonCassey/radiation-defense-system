@@ -1,6 +1,6 @@
 # Radiation Defense Protection System (RDPS)
 
-Undergraduate Capstone Project — Engineering Management / Industrial Engineering
+Capstone Project — Engineering Management (Mechanical Engineering)
 
 ## Overview
 A prototype fault-tolerant radiation detection and response system combining real hardware sensing with machine learning-based spike prediction. The system models the architecture of a spacecraft radiation defense layer using accessible hardware and open-source tools.
